@@ -18,10 +18,10 @@
   translation: "There is not content here."
 
 - id: site_title
-  translation: "Xuanwo's Blog"
+  translation: "Nick Karpov"
 
 - id: site_description
-  translation: "Achieving Data Freedom Through Open Source and Rust"
+  translation: "LLMs make you stupid"
 
 - id: archives
   translation: "Archives"
@@ -48,4 +48,4 @@
   translation: "About"
 
 - id: i18n
-  translation: "zh-hans"
+  translation: ""
