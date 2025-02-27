@@ -1,7 +1,8 @@
 ---
-date: 2025-02-26T01:00:00Z
+date: 2025-02-27T01:00:00Z
 title: "RIP flatMapGroupsWithState"
 ogimage: "image.png"
+ogdescription: "You'd be crazy not to try the new transformWithState API for your Spark Streaming jobs with arbitrary state"
 ---
 
 The new `transformWithState` API is now available on [Databricks Runtime 16.2](https://www.databricks.com/blog/introducing-transformwithstate-apache-sparktm-structured-streaming) and you'd be crazy not to [try it](https://docs.databricks.com/aws/en/stateful-applications/).
