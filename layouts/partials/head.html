@@ -1,13 +1,6 @@
 <!doctype html>
 <html>
     <head>
-        <script
-            async
-            defer
-            data-domain="xuanwo.io"
-            src="https://plausible.io/js/plausible.js"
-        ></script>
-
         <title>{{ .Title }}{{ if ne .Title .Site.Title }}{{ end }}</title>
 
         {{ partial "meta.html" . }} {{ partial "og.html" . }}
